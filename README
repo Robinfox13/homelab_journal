@@ -1,0 +1,34 @@
+# Home Lab Journal
+
+Documenting my home lab build, from first setup to interview-ready portfolio.
+
+## What This Is
+
+A learning journal tracking my progress building a cybersecurity and networking home lab. Each entry covers what I set up, what I learned, and what I'd do differently. The goal is to go from beginner to having a lab I can demo in a job interview.
+
+## The Plan
+
+**Phase 1 — Foundation (Now – Summer 2026)**
+Get core tools running: VirtualBox VMs (Ubuntu + Kali Linux), Docker, Wireshark, Git/GitHub, and AWS free tier basics (EC2, IAM, S3).
+
+**Phase 2 — Security Stack (Autumn 2026 – Summer 2027)**
+Add monitoring and defence: ELK SIEM, Suricata IDS, Wazuh, a virtual firewall, WireGuard VPN, and Nginx reverse proxy.
+
+**Phase 3 — DevSecOps Pipeline (Summer 2027 – Mid 2028)**
+Automate security: CI/CD with GitHub Actions, vulnerability scanning, Terraform infrastructure as code, honeypot deployment, and automated incident response.
+
+**Phase 4 — Interview Ready (Mid 2028 – 2029)**
+Polish everything: architecture diagrams, threat models, blog write-ups, and live demo capability.
+
+## Current Setup
+
+- VirtualBox with Ubuntu Desktop and Kali Linux VMs
+- Docker on Windows host
+- Wireshark for packet capture and analysis
+- Git + GitHub for version control and documentation
+
+## Entries
+
+| Day | Date | Summary |
+|-----|------|---------|
+| [001](entries/day-001.md) | 2026-04-02 | Initial setup — Kali VM, Docker verified, first Wireshark capture |
